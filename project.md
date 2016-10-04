@@ -31,7 +31,7 @@ entering the challenge you can help highlight the richness of the fabber-maker-h
 
 > Make your own version!
 
-> Download the file(s) here: http://libreobjet.org/objects/Peggy/project.html  
+> Download the file(s) here: http://libreobjet.org/objects/peggy/project.html 
 > Upload your images, changed design files and documentation to your favorite on-line platform and send a link to wendyattconstantvzw.org by November 1, 2016.  
 > The most exciting variations will be displayed in the window of Constant, Brussels, from 8th of December until the 22nd of January.  
 
