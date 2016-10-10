@@ -6,14 +6,14 @@ category: showcase
 tags: [wood, peg, fablab, makerspace]
 overall_size: # Overall size of the object ex: 830 x 400 x 410 mm
 creation_date: 2016-09-29
-contributors: # List of contributors
-derived_from: inspired by the "structure bois"
+contributors: [Wendy Van Wynsberghe]
+derived_from: Structure bois
 original_designer: [Simon Ruaut]
 realisation_place: Brussels, Belgium
 required_hardware: # List of tools necessary for construction ex: [Drill, Screw Driver, Saw]
 materials: # List of materials
 license: ﻿CERN Open Hardware Licence v1.2
-client: Constant vzw
+client: Constant VZW
 ---
 
 A project initiated by Wendy Van Wynsberghe.  
